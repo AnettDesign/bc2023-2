@@ -1,0 +1,1 @@
+http://backend.course/AnettDesign/bc2023-2/urls.txt
